@@ -1,1 +1,7 @@
-# jsonParse-from-javaScript-Language-essence-
+# AI
+主要是学习AI的时候几种算法的实现
+1.爬山法
+2.随机重启爬山法
+3.模拟退火算法
+4.最陡爬山法
+
